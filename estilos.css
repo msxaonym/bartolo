@@ -1,6 +1,6 @@
 /* Estilo general del cuerpo */
 body {
-  background-color:red;
+  background-color:#3e3e99 ;
   font-family: 'Segoe UI', sans-serif;
   margin: 40px;
 }
@@ -23,7 +23,7 @@ p {
 
 /* Estilo especial con borde y fondo */
 .especial {
-  background-color: blue;
+  background-color:#c771d6;
   border: 2px dashed teal;
   padding: 15px;
   border-radius: 10px;
