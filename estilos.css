@@ -1,0 +1,32 @@
+/* Estilo general del cuerpo */
+body {
+  background-color: #f9f9f9;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 40px;
+}
+
+/* Estilo para el título */
+h1 {
+  color: darkslateblue;
+  font-size: 42px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Estilo general para los párrafos */
+p {
+  color: #444;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+/* Estilo especial con borde y fondo */
+.especial {
+  background-color: #e0f7fa;
+  border: 2px dashed teal;
+  padding: 15px;
+  border-radius: 10px;
+  width: 60%;
+  margin: 20px auto;
+}
