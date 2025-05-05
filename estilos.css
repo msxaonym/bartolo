@@ -24,7 +24,7 @@ p {
 /* Estilo especial con borde y fondo */
 .especial {
   background-color:#c771d6;
-  border: 2px dashed teal;
+  border: 4px solid white;
   padding: 15px;
   border-radius: 10px;
   width: 60%;
