@@ -7,7 +7,7 @@ body {
 
 /* Estilo para el título */
 h1 {
-  color: darkslateblue;
+  color: white;
   font-size: 42px;
   text-align: center;
   font-weight: bold;
@@ -15,7 +15,7 @@ h1 {
 
 /* Estilo general para los párrafos */
 p {
-  color: #444;
+  color: white;
   font-size: 20px;
   text-align: center;
   line-height: 1.6;
